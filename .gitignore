@@ -5,6 +5,8 @@ artifacts/
 
 # Local SDK and private operator state
 .dotnet/
+.dotnet-home/
 .local/
 *.user
 *.suo
+build.log
