@@ -1,0 +1,10 @@
+# Build outputs
+**/bin/
+**/obj/
+artifacts/
+
+# Local SDK and private operator state
+.dotnet/
+.local/
+*.user
+*.suo
